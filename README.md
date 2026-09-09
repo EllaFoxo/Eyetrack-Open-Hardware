@@ -1,6 +1,10 @@
-# EyeTrackVR-Hardware
-Hardware files for EyeTrackVR
+# Eyetrack-Open--Hardware
+
+Hardware files for Eyetrack-Open.
 
 This includes camera mounts, ESP mounts, PCB files and all other things hardware releated.
 
-Files that go to external sources ie Thingiverse, will be included in the "External_Linked_Mounts" document.
+# Licensing
+
+Legacy hardware was previously published under GPL-3.0. All new releases are CERN-OHL-W-2.0.
+
