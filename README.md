@@ -1,4 +1,4 @@
-# Eyetrack-Open--Hardware
+# Eyetrack-Open-Hardware
 
 Hardware files for Eyetrack-Open.
 
